@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/asayush11/Personal-Expense-Tracker.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/asayush11/Expense-Tracker-UI.git
